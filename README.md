@@ -1,3 +1,2 @@
-~=============~
 ~Apples~
 grocery-lists

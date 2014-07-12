@@ -1,4 +1,3 @@
 =============
-~Apples~
 Coffe
 grocery-lists

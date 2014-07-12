@@ -1,1 +1,1 @@
-~grocery-lists~
+grocery-lists
